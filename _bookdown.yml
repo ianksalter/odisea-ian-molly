@@ -1,8 +1,5 @@
-new_session: yes
-
-rmd_files: [
-  "TheFerry.rmd",
-  
-]
-
-before_chapter_script: "_common.R"
+book_filename: "odyssey"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
