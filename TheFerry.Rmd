@@ -1,0 +1,17 @@
+---
+title: "TheFerry"
+date: "01/08/2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The ferry has a 45 minute check in and the sat nav shows us getting there with 44 minutes before departure! My half an hour in case of emergencies has been swallowed up just getting out of the flat! Oh well it won’t be the first time that I have tried to break the laws of physics, or at least the laws of the land, to make a ferry. I try and most probably fail completely to hide my frustration. If nothing else, it comes out in my assertive driving style.
+
+As we make it through the Blackwall tunnel and then along the A2 without incident and we begin to pull back the sat navs predicted arrival time, I reflect that dealing with frustrations like these is exactly the reason I'm taking this trip. My travelling companion, the marvellous Molly, is a very different person to me, and it is the exploration of these differences that interests me. While I'm a task and time focussed technologist that has recently retired from the US investment bank where I have worked for the last 18 years, Molly is a free spirit who fled the U.K. for Spain ten years ago, an anarchist vegan whose main home is a squat, but who tends to live on the streets when she’s travelling.
+
+Making time for the Mollys of this world and the other folks that are different to me has become a passion in the past few months. For so long I have been frustrated with people who don’t see what I see, or can’t do what I do, but I am beginning to realise that I’m missing the point. I'm both ignoring my talents, the very things that I excel at, while at the same time missing what makes others special. Yes I can go to the market to get an avocado and be back in 10 minutes while Molly will take 2 and a half hours, but in that two and a half hours what adventures she will have, what friends she will make. She will know half the market and the stall holders will show a genuine love for her. Don't get me wrong they don't hate me, but I'm just a polite nondescript guy, whereas she has brought sunshine to their lives.
+
+As I sit here on the ferry, that incidentally we did make with 10 minutes to spare, I look down at Molly asleep in front of me and I can't help but reflect on how delicate she is, how precarious her life is in so many ways. In contrast I seem to have so much control and so much power. How awful and alien my frustrations at not leaving on time must be to her, how much it must hurt her. How many times must she have been cruelly judged by those of us that tend to run this planet with our milestones and our spreadsheets and how many times by focussing on our clipboard and our checkboxes have we have completely missed the magic of a Molly.
