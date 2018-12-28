@@ -1,5 +1,5 @@
 --- 
-title: "Ian and Molly's Odyssey"
+title: "La Odisea de Ian y Molly"
 author: "Ian K Salter"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,8 +8,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: ianksalter/IanAndMollysOdyssey
-description: "A short book of a few chapters that collestcts together a set of blog posts recounting a journey in October 2016."
+github-repo: ianksalter/odisea-ian-molly
+description: "La historia de un pequeño viaje en otoño 2016."
 ---
 
 
